@@ -1,0 +1,76 @@
+body{
+background: white;
+}
+
+font{
+	font-family: "Helvetica";
+}
+h3{
+	color: #E91E63;
+}
+
+h4{
+	color:#949494;
+}
+
+
+nav{
+	background: #E91E63;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+
+}
+
+.img-pokemon{
+	margin-left: 5px;
+	width:30%;
+	float:left;
+	vertical-align: middle;
+}
+
+.principal .information {
+	  width: 60%;
+  float: left;
+  color: #949494;
+  padding: 5px;
+ 
+}
+
+
+
+
+.Info .info-title {
+  background: #949494;
+  color: white;
+  font-size: 12px;
+  padding: 5px;
+  font-weight: bold;
+}
+.Info .panel-default{
+	padding: 5px;
+margin-left: 25px;
+margin-right: 25px;	
+}
+.Info .panel-default .table-responsive{
+	margin-bottom: 1px solid black;
+}
+.Info .panel-default .table-responsive .number {
+text-align: right;
+  top: 10px;
+  right: 15px;
+  font-size: 18px;
+  color: #949494;
+}
+
+.typ {
+  display: inline-block;
+  width: 60px;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 5px;
+}
+.typ.electric {
+  background-color: #E0E02D;
+}
